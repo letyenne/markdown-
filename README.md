@@ -14,6 +14,9 @@ Repositorio para a aula de Markdown
 
 *Ítakico* ou _Ítalico_ 
 
+***Negrito*** ___negrito___
+``negrito``
+
 **Negrito** __negrito__
 
 ___negrito e italico___ 
